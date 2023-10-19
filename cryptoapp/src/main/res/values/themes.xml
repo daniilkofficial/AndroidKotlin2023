@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AndroidKotlin2023" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/primary</item>
+         <item name="colorPrimaryDark">@color/primary</item>
+         <item name="colorAccent">@color/primary</item>
+    </style>
+
+    <style name="Theme.AndroidKotlin2023" parent="Base.Theme.AndroidKotlin2023" />
+
+
+</resources>
